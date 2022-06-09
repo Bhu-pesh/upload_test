@@ -1,0 +1,1 @@
+web: gunicorn heroku_upload --log-file -
